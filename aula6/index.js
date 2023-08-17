@@ -16,6 +16,17 @@
 // console.log('Maria teve 1 filho com',nome,'em 2015.');
 // console.log('O folho de',nome,'se chama Eduardo.');
 
+/***
+ *  Não podemos criar variáveis compalavras reservadas
+ *  Variáveis precisam ter nomes significativos
+ *  Não pode começar o mome de uma variável com número
+ *  Não podem conter espaços ou traços
+ *  Utilizamos camelCase
+ *  Case-sensitive
+ *  Não podemos redeclarar variáveis com let
+ *  Não utilize var, utilize let
+*/
+
 let nome; // Declarou a variável
 nome = 'João'; // Inicializando a variável
 console.log(nome);
