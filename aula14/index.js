@@ -1,3 +1,5 @@
+// IEE 754-2008 -> PADRÃO QUE O JAVASCRIPT USA  
+
 let num1 = 1500;
 let num2 = 2.5;
 
