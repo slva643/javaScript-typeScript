@@ -22,3 +22,29 @@ console.log(alunos);
 alunos [alunos.length] = 'Fabio';
 alunos [alunos.length] = 'Luana';
 console.log(alunos);
+
+// Também podemos usar o metodo ".push()" para adionar um elemento e automaticamente acionar o indece.
+alunos.push('Antonio');
+console.log(alunos);
+
+// Podemos usar o método ".unshift()" para adionar no começo para Array
+alunos.unshift('Alice');
+console.log(alunos);
+
+// Quando for preciso remover o ultimo elemento usa o método ".pop"
+alunos.pop();
+console.log(alunos)
+
+// Também podemos guarda dentre de uma variável o elemento que foi removido 
+const remover = alunos.pop();
+console.log(alunos);
+console.log(remover);
+
+// Também podemos remover um elemeto dentro da Array usando método ".shift"
+alunos.shift();
+console.log(alunos);
+
+// Quando for preciso apagar o elemento, mas sem alterar o índice 
+delete alunos[0];
+console.log(alunos);
+console.log(alunos instanceof Object)
