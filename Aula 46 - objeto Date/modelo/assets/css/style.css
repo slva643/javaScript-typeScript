@@ -24,7 +24,7 @@ body {
     margin: 50px auto;
     background: #fff;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 form input,
@@ -58,4 +58,8 @@ form button {
 
 form button:hover {
     background: var(--primary-color-darker);
+}
+
+h1 {
+    text-align: center;
 }
