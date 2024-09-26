@@ -6,14 +6,30 @@
 // Checar se o número é realmente um número
 // Use a função com números de 0 a 100
 
-function numero(x) {
-  for (let x = 0; x < 100; x++) {
-    if (isNaN(x / 3)) {
-      return 'Fizz';
-    } else if (isNaN(x / 5)) {
-      return 'Buzz';
+function fizzBuzz(numero) {
+
+    if (typeof numero !== 'number') {
+      return numero
     }
-  }
+
+  //   if (numero % 3 === 0) {
+  //     return 'Fizz';
+  //   } else if (numero % 5 === 0) {
+  //     return 'Buzz';
+  //   } else if (numero % 3 === 0 && numero % 5 === 0){
+  //     return 'FizzBuzz'
+  //   }else {
+  //     return numero
+  //   }
+
+  if(numero % 3 === 0 && numero % 5 === 0) return 'FizzBuzz';
+  if(numero % 3 === 0) return 'Fizz';
+  if (numero % 5 === 0) return 'Buzz';
+  return numero
+  
 }
 
-console.log(numero())
+for (let i = 0; i <= 100; i++) {
+  console.log(i, fizzBuzz(i))
+}
+
