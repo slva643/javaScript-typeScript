@@ -10,3 +10,4 @@ console.log(Math.min(1,34,66,-55, 100));  //Para encontrar o menor número
 //  Math.random() * (10 - 5) + 5 -> Enquando Math.random() está transformando o número aleatório e então está multiplicando e o valor vai fica entre 10 e menos 5 e começa com valor 5
 const aleatorio = Math.random() * (10 - 5) + 5;// Criando um número aleatório, porém não começa com número 1, mas sim com zero.
 console.log(aleatorio) 
+console.log(Math.floor(Math.random() * 100 + 10)); // Arredondando o número aleatório-
