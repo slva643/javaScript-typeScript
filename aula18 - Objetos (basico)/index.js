@@ -3,7 +3,7 @@
    -> Objeto literal
 
     const pessoa1 = {
-        nome: 'Luiz',
+        nome: 'Luiz','
         sobrenome: 'Miranda',
         idade: 25
     };

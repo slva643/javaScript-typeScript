@@ -48,3 +48,7 @@ console.log(alunos);
 delete alunos[0];
 console.log(alunos);
 console.log(alunos instanceof Object)
+
+const frutas = [];
+frutas.push('Banana','Maça','Pera','Uva');
+console.log(frutas);
