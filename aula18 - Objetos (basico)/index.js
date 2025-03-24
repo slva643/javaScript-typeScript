@@ -1,4 +1,4 @@
-       
+
 /* 
    -> Objeto literal
 
@@ -30,18 +30,32 @@
 // console.log(pessoa1.nome,pessoa2.nome, pessoa3.nome, pessoa4.nome, pessoa5.nome);
 
 //-------------------------------------------------------------------------------------------------------------
-const pessoa1 = {
-    nome: 'Luiz',
-    sobrenome: 'Miranda',
-    idade: 25,
+// const pessoa1 = {
+//     nome: 'Luiz',
+//     sobrenome: 'Miranda',
+//     idade: 25,
 
+//     fala() {
+//         console.log(`A minha idade atual é ${this.idade}`);
+//     },
+
+//     incrementaIdade() {
+//         this.idade++;
+//     }
+// };
+
+// pessoa1.fala();
+
+const pessoa2 = {
+    nome: 'Maria',
+    sobrenome: 'Oliveira',
+    idade: 55,
     fala() {
         console.log(`A minha idade atual é ${this.idade}`);
     },
-
     incrementaIdade() {
         this.idade++;
     }
-};
+}
 
-pessoa1.fala();
+console.log(pessoa2.fala());
