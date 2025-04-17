@@ -1,5 +1,6 @@
 //https://developer.mozilla.org/pt-BR/docs/web/JavaScript/Refernce/Gobal_Objectas/Date
-
+//const data = new Date(0) 01/01/1970 Timetamp unix ou época unix
+//formado da hora e data = ano, mês, dia, hora, minuto, segundo, miléssimo de segundo
 
 
 //***************************************************** new Date(valor) ******************************************************************** */
