@@ -110,7 +110,7 @@
  * charAt(0) pega a primeira letra.
  * toUpperCase() transforma ela em maiúscula.
  * slice(1) pega o resto da frase (sem mexer).   
-**/
+*/
 
 
 const h1 = document.querySelector(".container h1")
