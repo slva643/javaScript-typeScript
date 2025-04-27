@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 :root {
@@ -14,20 +13,18 @@
 body {
     margin: 0;
     padding: 0;
-    background: var(--primary-color-darker);
+    background: var(--primary-color);
     font-family: 'Open Sans', sans-serif;
     font-size: 1.3em;
     line-height: 1.5em;
 }
 
 .container {
-    max-width: 500px;
-    margin: 5px auto;
+    max-width: 750px;
+    margin: 50px auto;
     background: #fff;
     padding: 20px;
     border-radius: 10px;
-    border: 1px solid;
-    margin-top: 40px;
 }
 
 form input,
@@ -63,10 +60,6 @@ form button:hover {
     background: var(--primary-color-darker);
 }
 
-h1 {
-  text-align: center;
-}
-
 h1,
 label {
     color: var(--primary-color);
@@ -81,4 +74,5 @@ label {
 .bad {
     background: rgb(255, 150, 150);
     
+
 }
