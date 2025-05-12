@@ -37,7 +37,7 @@ Aqui você encontrará exercícios, desafios, exemplos reais e práticas de conc
 
 * aula22 → Operadores lógicos (&&, ||, !)
 
-*aula23 → Avaliação de curto-circuito
+* aula23 → Avaliação de curto-circuito
 
 * aula24 → Estruturas condicionais (if/else)
 
