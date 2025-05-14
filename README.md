@@ -57,6 +57,8 @@ Aqui você encontrará exercícios, desafios, exemplos reais e práticas de conc
 
 * aula32 → Atribuição via desestruturação (Arrays)
 
+* aula33 → Atribuição via desestruturação (Objeto)
+
 * aula46 → Modelagem de data/hora
 
 * aula52 → Estrutura de repetição for
@@ -109,7 +111,8 @@ cd javaScript-typeScript
 |29|	Switch/Case	|[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula29%20-%20Shitch)
 |30|	Desafio Final	|[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula30%20-%20Desafio)
 |31|  Mais diferência entre Var e Let |[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula31%20-%20Mais%20diferencia%20entre%20var%20e%20let/const)
-|32|  Atribuição via Desestruturação |[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula32%20-%20Atribui%C3%A7%C3%A3o%20via%20desestrutura%C3%A7%C3%A3o%20(Arrays))
+|32|  Atribuição via Desestruturação (Array) |[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula32%20-%20Atribui%C3%A7%C3%A3o%20via%20desestrutura%C3%A7%C3%A3o%20(Arrays))
+|33|  Atribuição via Desestruturação (Objeto) | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula33%20-%20Atribui%C3%A7%C3%A3o%20via%20desetrutura%C3%A7%C3%A3o%20(Objetos))
 |46|	Modelo de Data|	[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula46%20-%20objeto%20Date)
 
 ## 📩 Contato
