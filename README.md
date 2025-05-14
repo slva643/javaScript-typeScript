@@ -108,8 +108,8 @@ cd javaScript-typeScript
 |28|	Trabalhando com Datas	|[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula28%20-%20Objeto%20Date)
 |29|	Switch/Case	|[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula29%20-%20Shitch)
 |30|	Desafio Final	|[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula30%20-%20Desafio)
-|31|  Mais diferência entre Var e Let |[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula31%20-%20Mais%20diferen%C3%A3s%20entre%20var%20e%20let/const)
-|32|  Atribuição via Desestruturação |[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula31%20-%20Mais%20diferen%C3%A3s%20entre%20var%20e%20let/const)
+|31|  Mais diferência entre Var e Let |[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula31%20-%20Mais%20diferencia%20entre%20var%20e%20let/const)
+|32|  Atribuição via Desestruturação |[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula32%20-%20Atribui%C3%A7%C3%A3o%20via%20desestrutura%C3%A7%C3%A3o%20(Arrays))
 |46|	Modelo de Data|	[Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula46%20-%20objeto%20Date)
 
 ## 📩 Contato
