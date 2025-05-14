@@ -24,13 +24,17 @@ Aqui você encontrará exercícios, desafios, exemplos reais e práticas de conc
 
 
 ## 🛠️ Como Executar
-### 1. Clone este repositório:
 
-git clone https://github.com/slva643/javaScript-typeScript.git
-### 2. Acesse a pasta do projeto:
+```bash
+# 1. Clone o repositório
+git clone https://github.com/seu-usuario/javaScript-typeScript.git
 
+# 2. Acesse a pasta do projeto
 cd javaScript-typeScript
-### 3. Abra o arquivo .html de cada aula em seu navegador para visualizar os exemplos.
+
+# 3. Abra o arquivo HTML da aula desejada no navegador
+---
+```
 
 ## 📈 Progresso do Projeto
 
@@ -81,18 +85,7 @@ cd javaScript-typeScript
 
 ---
 
-## 🛠️ Como Executar
 
-```bash
-# 1. Clone o repositório
-git clone https://github.com/seu-usuario/javaScript-typeScript.git
-
-# 2. Acesse a pasta do projeto
-cd javaScript-typeScript
-
-# 3. Abra o arquivo HTML da aula desejada no navegador
----
-```
 ## 📩 Contato
 Sinta-se à vontade para abrir uma [issue](https://github.com/slva643/javaScript-typeScript/issues) ou me chamar no [meu perfil GitHub](https://github.com/slva643) para sugestões ou dúvidas!
 
