@@ -80,6 +80,7 @@ cd javaScript-typeScript
 | 31   | Diferença entre var e let              | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula31%20-%20Mais%20diferencia%20entre%20var%20e%20let/const) |
 | 32   | Desestruturação (Array)                | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula32%20-%20Atribui%C3%A7%C3%A3o%20via%20desestrutura%C3%A7%C3%A3o%20(Arrays)) |
 | 33   | Desestruturação (Objeto)               | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula33%20-%20Atribui%C3%A7%C3%A3o%20via%20desetrutura%C3%A7%C3%A3o%20(Objetos)) |
+| 34   | For - Clássico - Estrutura de repetição| ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula34%20-%20Classico%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o)|
 | 46   | Modelagem de data/hora                 | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula46%20-%20objeto%20Date) |
 | 52   | Estrutura de repetição `for`           | ✅       | [Acessar](#) |
 | 55-64| Prática avançada com JS puro           | ✅       | [Acessar](#) |
