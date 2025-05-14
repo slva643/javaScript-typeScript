@@ -33,8 +33,9 @@ git clone https://github.com/seu-usuario/javaScript-typeScript.git
 cd javaScript-typeScript
 
 # 3. Abra o arquivo HTML da aula desejada no navegador
----
+
 ```
+---
 
 ## 📈 Progresso do Projeto
 
