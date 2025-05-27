@@ -81,6 +81,8 @@ cd javaScript-typeScript
 | 32   | Desestruturação (Array)                | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula32%20-%20Atribui%C3%A7%C3%A3o%20via%20desestrutura%C3%A7%C3%A3o%20(Arrays)) |
 | 33   | Desestruturação (Objeto)               | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula33%20-%20Atribui%C3%A7%C3%A3o%20via%20desetrutura%C3%A7%C3%A3o%20(Objetos)) |
 | 34   | For - Clássico - Estrutura de repetição| ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula34%20-%20Classico%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o)|
+| 35   | Exercicio com FOR                      | ✅       | [Acessar|(https://github.com/slva643/javaScript-typeScript/tree/main/aula35%20-%20Exerc%C3%ADcio%20com%20for) |
+| 36   | DOM e a árvore do DOM                  | ✅       | [Acessar|(https://github.com/slva643/javaScript-typeScript/tree/main/aula36%20-%20DOM%20e%20%C3%A1rvore%20do%20DOM) |
 | 46   | Modelagem de data/hora                 | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula46%20-%20objeto%20Date) |
 | 52   | Estrutura de repetição `for`           | ✅       | [Acessar](#) |
 | 55-64| Prática avançada com JS puro           | ✅       | [Acessar](#) |
