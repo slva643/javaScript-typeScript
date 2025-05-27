@@ -1,9 +1,24 @@
 /*
-  uma página web como uma árvore de objetos. Com ele, o JavaScript pode acessar, modificar e 
-  O DOM (Document Object Model) no JavaScript é uma interface que representa a estrutura de 
-  manipular dinamicamente o conteúdo, a estrutura e o estilo dos elementos HTML. Isso permite 
-  criar páginas interativas e dinâmicas.
+  DOM (Document Object Model)
+  O DOM é uma representação em forma de árvore de todos os elementos de uma página HTML.
+  Cada parte da página (como tags, atributos e textos) vira um nó na árvore. O JavaScript 
+  usa essa estrutura para acessar e modificar os elementos da página dinamicamente.
 
+
+  Document
+└── html
+    ├── head
+    └── body
+        ├── h1
+        │   └── "Minha Página"
+        └── p
+            └── "Bem-vindo!
+  
+  Document é o nó raiz.
+
+  Cada elemento HTML é um nó da árvore.
+
+  Os textos dentro das tags também são nós.
 */
 
 function mundarMensagem() {
