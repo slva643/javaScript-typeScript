@@ -84,6 +84,7 @@ cd javaScript-typeScript
 | 35   | Exercicio com FOR                      | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula35%20-%20Exerc%C3%ADcio%20com%20for) |
 | 36 -36 | A árvore do DOM - For in             | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula36%20-%20DOM%20e%20%C3%A1rvore%20do%20DOM) e  [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula36%20-%20FOR%20in%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o)|
 | 37   | For of Estrutura de repetição          | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula37%20-%20For%20of%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o) |
+| 38   | Exercício com NodeList(Brower)         | ✅       |  [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula38%20-%20Exerc%C3%ADcio%20com%20NodeList(Brower)) |
 | 46   | Modelagem de data/hora                 | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula46%20-%20objeto%20Date) |
 | 52   | Estrutura de repetição `for`           | ✅       | [Acessar](#) |
 | 55-64| Prática avançada com JS puro           | ✅       | [Acessar](#) |
