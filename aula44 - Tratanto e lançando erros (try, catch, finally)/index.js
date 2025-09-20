@@ -115,14 +115,77 @@
     Se a conversão for bem-sucedida, retorne o objeto convertido.
 */
 
-function parseJSON(string) {
-  try {
-    const objeto = JSON.parse(string);
-    return objeto;
-  } catch (error) {
-    return "JSON inválido";
+// function parseJSON(string) {
+//   try {
+//     const objeto = JSON.parse(string);
+//     return objeto;
+//   } catch (error) {
+//     return "JSON inválido";
+//   }
+// }
+
+// console.log(parseJSON('{"nome" : "Vagno"}'));
+// console.log(parseJSON('{nome": vagno}'));
+
+
+/*********************************************** Exemplo 4 - try, catch e finally **************************************/
+
+/*
+  Exercício:
+
+  Crie uma função chamada somaSegura que:
+  Receba dois parâmetros.
+  Verifique se os dois são números usando typeof.
+  Se não forem números, lance um erro com throw new Error("Parâmetros inválidos").
+  Use try/catch para capturar o erro e retornar a mensagem de erro.
+  Se forem números, retorne a soma.
+*/
+
+// function somaSegura(x, y) {
+
+//   if (typeof x !== 'number' || typeof y !==  'number') {
+//     throw new Error("Paramentro iválido");
+//   }
+//   return x + y;
+// }
+
+// try {
+//   // console.log(somaSegura(5, 7));
+//   console.log(somaSegura(5, "a"));
+
+// } catch (error) {
+//   console.log(error.message);
+// }
+
+
+/*********************************************** Exemplo 5 - try, catch e finally **************************************/
+
+/*
+  Exercício – Validação de String
+
+  Crie uma função chamada validaNome que:
+
+  Receba um parâmetro nome.
+
+  Verifique se o tipo é string usando typeof.
+
+  Se não for string, lance um erro com throw new Error("Nome inválido").
+
+  Se for string, retorne a mensagem: "Nome válido: " + nome.
+
+  Use try/catch para capturar e mostrar a mensagem de erro quando o dado não for string.
+*/
+
+function validaNome (nome) {
+  if(typeof nome !== 'string') {
+    throw new Error('Nome iválido!');
   }
+  return 'Nome válido: '+ nome;
 }
 
-console.log(parseJSON('{"nome" : "Vagno"}'));
-console.log(parseJSON('{nome": vagno}'));
+try {
+  console.log(validaNome('Maria'));
+  console.log(validaNome(123));
+} catch (error) {
+  console.log(error.message)
+}
