@@ -89,7 +89,7 @@ cd javaScript-typeScript
 | 40   | Break e Continue                       | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula40%20-%20Break%20e%20Continue) |
 | 41   | Exercicio com lógica de programação 02 | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula41%20-%20Exercicio%20com%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o%2002) |
 | 43   | Exercicio com lógica de programação 03 | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula43%20-%20Exercicio%20com%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o%2003) |
-| 44   | Tratanto de erros(try, catch, finally) | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula44%20-%20Tratanto%20e%20lan%C3%A7ando%20erros%20(try%2C%20catch%2C%20finally)) |
+| 44   | Tratanto de erros(try, catch, finally) | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula44%20-%20Tratanto%20e%20lan%C3%A7ando%20erros%20(try%2C%20catch%2C%20finally)) e [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula45%20-%20Tratamento%20e%20lan%C3%A7amento%20%20erros%20(try%2C%20catch%2C%20finally))|
 | 46   | Modelagem de data/hora                 | ✅       | [Acessar](https://github.com/slva643/javaScript-typeScript/tree/main/aula46%20-%20objeto%20Date) |
 | 52   | Estrutura de repetição `for`           | ✅       | [Acessar](#) |
 | 55-64| Prática avançada com JS puro           | ✅       | [Acessar](#) |
