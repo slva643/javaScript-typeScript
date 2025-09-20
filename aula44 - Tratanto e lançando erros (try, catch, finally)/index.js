@@ -176,16 +176,67 @@
   Use try/catch para capturar e mostrar a mensagem de erro quando o dado não for string.
 */
 
-function validaNome (nome) {
+// function validaNome (nome) {
+//   if(typeof nome !== 'string') {
+//     throw new Error('Nome inválido!');
+//   }
+//   return `Nome válido: ${nome}`; // Usando um template string
+// }
+
+// try {
+//   console.log(validaNome('Maria'));
+//   console.log(validaNome(123));
+// } catch (error) {
+//   console.log(error.message)
+// }
+
+
+/*********************************************** Exemplo 6 - try, catch e finally **************************************/
+
+/**
+ *  🚀 Exercício – Validação de Nome e Idade
+ * 
+ *    Crie uma função chamada validaPessoa que:
+ * 
+ *    Receba dois parâmetros: nome e idade.
+ * 
+ *  Verifique:
+ * 
+ *    Se nome não for string, lance um erro: "Nome inválido".
+ * 
+ *    Se idade não for number, lance um erro: "Idade inválida".
+ * 
+ *  Se os dois forem válidos, retorne a mensagem:
+ * 
+ *        Pessoa válida: Nome = Maria, Idade = 25
+ * 
+ *  Use try/catch para capturar e exibir os erros.
+ */
+
+function validaPessoa (nome, idade) {
   if(typeof nome !== 'string') {
-    throw new Error('Nome iválido!');
+    throw new Error("Nome inválido");
   }
-  return 'Nome válido: '+ nome;
+  if(typeof idade !== 'number') {
+    throw new Error("Idade inválida");
+  }
+
+  return `Pessoa válida: Nome = ${nome}, Idade = ${idade}`;
 }
 
 try {
-  console.log(validaNome('Maria'));
-  console.log(validaNome(123));
+  console.log(validaPessoa("Maria", 25));
+  console.log(validaPessoa(123, 25))
+  console.log(validaPessoa("João", "a"))
 } catch (error) {
   console.log(error.message)
 }
+
+const carro = '{"carroUsado": "Carro usado", "carroVelho": "Carro velho", "carroNovo": "Carro seme Novo"}'
+
+const divisao = JSON.parse(carro);
+
+// console.log(divisao);
+console.log(divisao.carroUsado);
+console.log(divisao.carroVelho);
+console.log(divisao.carroNovo);
