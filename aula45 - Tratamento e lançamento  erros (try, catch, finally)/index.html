@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: beige;
+    }
+    .corpo {
+      background-color: rgb(253, 253, 253);
+      max-width: 800px;
+      margin: 0  auto;
+      padding: 15px;
+      margin-top: 30px;
+      border-radius: 20px;
+    }
+
+    h2 {
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 2.5em;
+      padding-top: 50px;
+    }
+
+    #forumario{
+      text-align: center;
+      padding: 20px;
+    }
+
+    label {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1.7em;
+      font-weight: 700;
+    }
+
+    input[type] {
+      padding: 5px;
+      font-size: 1.2em;
+      border-radius: 5px;
+      border: 1px solid black;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+
+    button {
+      padding: 5px 10px;
+      font-size: 1.2em;
+      border-radius: 5px;
+      border: 1px solid black;
+      cursor: pointer;
+    }
+
+    #res {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1.5em;
+      font-weight: 700;
+      padding-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <section class="corpo">
+    <h2>Vamos saber a raiz quadrada</h2>
+    <div id="forumario">
+      <form action="" onsubmit="calcular(event)">
+        <label for="num">Digite um número:</label>
+        <input type="number" name="num" id="num" step="any" required>  <!-- step="any" permite números decimais -->
+        <button type="submit">Calcular</button>
+      </form>
+      <div id="res">
+
+      </div>
+    </div>
+  </section>
+  <script src="index.js"></script>
+</body>
+
+</html>
