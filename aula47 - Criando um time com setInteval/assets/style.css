@@ -73,6 +73,16 @@ label {
 
 .bad {
     background: rgb(255, 150, 150);
-    
+}
 
+
+.corpoRelogio{
+    text-align: center;
+}
+.relogio {
+    font-size: 3em;
+}
+
+.passaudo {
+    background: rgb(255, 255, 150);
 }
